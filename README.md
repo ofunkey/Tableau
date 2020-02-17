@@ -1,12 +1,12 @@
 # Tableau - Citi Bike Analytics
 
-![Citi-Bikes - Tableau site](https://public.tableau.com/profile/funke.olaleye#!/vizhome/citibike_tripdata/CitibikeTripdata)
+[Citi-Bikes - Tableau site](https://public.tableau.com/profile/funke.olaleye#!/vizhome/citibike_tripdata/CitibikeTripdata)
 
 ## Background
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+[Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
-In this work, I will generate regular reports for city officials looking to publicize and improve the city program [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike).
+In this work, I generated regular reports for city officials looking to publicize and improve the city program [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike).
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
