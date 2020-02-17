@@ -50,6 +50,7 @@ Finally, create final presentation
 
 * Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
+[Citi-Bikes - View the Tableau story](https://public.tableau.com/profile/funke.olaleye#!/vizhome/citibike_tripdata/CitibikeTripdata)
 
 ### Funke Olaleye Data Analytics and Data Science
 
