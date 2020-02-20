@@ -19,37 +19,44 @@ However, while the data has been regularly updated, the team has yet to implemen
 * Design visualizations for each discovered phenomena. 
 
 * How many trips have been recorded total during year 2018?
-[Trips_recoded_in_2018](Resources/Trips_recoded_in_2018.jpg)
+
+[Trips_recoded_in_2018](Resources/Trips_recoded_in_2018.JPG)
 
 
 * What are the peak hours in which bikes are used during summer months?
 
 * What are the peak hours in which bikes are used during winter months?
-[Peak_hours_summer_and_winter](Peak_hours_summer_and_winter.jpg)
+
+[Peak_hours_summer_and_winter](Resources/Peak_hours_summer_and_winter.JPG)
 
 
 
 * What are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
 * What are the top 10 stations in the city for ending a journey? (Based on data, why?)
-[Top_10_Start_and_End_Stations](Top_10_Start_and_End_Stations.jpg)
+
+[Top_10_Start_and_End_Stations](Resources/Top_10_Start_and_End_Stations.JPG)
 
 
 
 * What is the gender breakdown of active participants (Male v. Female)?
-[Gender_Distribution_Riders](Gender_Distribution_Riders.jpg)
+
+[Gender_Distribution_Riders](Resources/Gender_Distribution_Riders.JPG)
 
 
 * What is the trip duration by Age?
-[Trip_Duration_By_Year_and_Age](Trip_Duration_By_Year_and_Age.jpg)
+
+[Trip_Duration_By_Year_and_Age](Resources/Trip_Duration_By_Year_and_Age.JPG)
 
 
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-[Bike_Location](Bike_Location.jpg)
+
+[Bike_Location](Resources/Bike_Location.JPG)
 
 
 * How variable is the utilization by bike ID?
-[Bike_Utilization](Bike_Utilization.jpg)
+
+[Bike_Utilization](Resources/Bike_Utilization.JPG)
 
 Next,
 
