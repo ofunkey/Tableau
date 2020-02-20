@@ -23,11 +23,15 @@ However, while the data has been regularly updated, the team has yet to implemen
 ![Trips_recoded_in_2018](Resources/Trips_recoded_in_2018.JPG)
 
 
+
+
 * What are the peak hours in which bikes are used during summer months?
 
 * What are the peak hours in which bikes are used during winter months?
 
 ![Peak_hours_summer_and_winter](Resources/Peak_hours_summer_and_winter.JPG)
+
+
 
 
 
@@ -39,9 +43,14 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 
+
+
 * What is the gender breakdown of active participants (Male v. Female)?
 
 ![Gender_Distribution_Riders](Resources/Gender_Distribution_Riders.JPG)
+
+
+
 
 
 * What is the trip duration by Age?
@@ -49,14 +58,20 @@ However, while the data has been regularly updated, the team has yet to implemen
 ![Trip_Duration_By_Year_and_Age](Resources/Trip_Duration_By_Year_and_Age.JPG)
 
 
+
+
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
 ![Bike_Location](Resources/Bike_Location.JPG)
 
 
+
+
 * How variable is the utilization by bike ID?
 
 ![Bike_Utilization](Resources/Bike_Utilization.JPG)
+
+
 
 Next,
 
@@ -69,6 +84,10 @@ Next,
 Finally, create final presentation
 
 * Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
+
+![Tableau_story](Resources/Tableau_story.JPG)
+
+
 
 [Citi-Bikes - View the Tableau story](https://public.tableau.com/profile/funke.olaleye#!/vizhome/citibike_tripdata/CitibikeTripdata)
 
