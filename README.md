@@ -20,7 +20,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How many trips have been recorded total during year 2018?
 
-[Trips_recoded_in_2018](Resources/Trips_recoded_in_2018.JPG)
+![Trips_recoded_in_2018](Resources/Trips_recoded_in_2018.JPG)
 
 
 * What are the peak hours in which bikes are used during summer months?
