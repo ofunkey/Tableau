@@ -91,5 +91,5 @@ Finally, create final presentation
 
 [Citi-Bikes - View the Tableau story](https://public.tableau.com/profile/funke.olaleye#!/vizhome/citibike_tripdata/CitibikeTripdata)
 
-### Funke Olaleye Data Analytics and Data Science
+### Funke Olaleye Data Analytics and Visualization
 
