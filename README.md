@@ -4,7 +4,7 @@
 
 ## Background
 
-[Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+[Citi-Bikes](Resources/Images/citi-bike-station-bikes.jpg)
 
 In this work, I generated regular [reports](https://public.tableau.com/profile/funke.olaleye#!/vizhome/citibike_tripdata/CitibikeTripdata) for city officials to publicize and improve the city program [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike).
 
@@ -19,24 +19,37 @@ However, while the data has been regularly updated, the team has yet to implemen
 * Design visualizations for each discovered phenomena. 
 
 * How many trips have been recorded total during year 2018?
+[Trips_recoded_in_2018](Resources/Trips_recoded_in_2018.jpg)
+
 
 * What are the peak hours in which bikes are used during summer months?
 
 * What are the peak hours in which bikes are used during winter months?
+[Peak_hours_summer_and_winter](Peak_hours_summer_and_winter.jpg)
+
+
 
 * What are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
 * What are the top 10 stations in the city for ending a journey? (Based on data, why?)
+[Top_10_Start_and_End_Stations](Top_10_Start_and_End_Stations.jpg)
 
-* What are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
-* What are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 
 * What is the gender breakdown of active participants (Male v. Female)?
+[Gender_Distribution_Riders](Gender_Distribution_Riders.jpg)
+
+
+* What is the trip duration by Age?
+[Trip_Duration_By_Year_and_Age](Trip_Duration_By_Year_and_Age.jpg)
+
 
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
+[Bike_Location](Bike_Location.jpg)
+
 
 * How variable is the utilization by bike ID?
+[Bike_Utilization](Bike_Utilization.jpg)
 
 Next,
 
