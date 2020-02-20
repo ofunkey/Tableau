@@ -27,7 +27,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * What are the peak hours in which bikes are used during winter months?
 
-[Peak_hours_summer_and_winter](Resources/Peak_hours_summer_and_winter.JPG)
+![Peak_hours_summer_and_winter](Resources/Peak_hours_summer_and_winter.JPG)
 
 
 
@@ -35,28 +35,28 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * What are the top 10 stations in the city for ending a journey? (Based on data, why?)
 
-[Top_10_Start_and_End_Stations](Resources/Top_10_Start_and_End_Stations.JPG)
+![Top_10_Start_and_End_Stations](Resources/Top_10_Start_and_End_Stations.JPG)
 
 
 
 * What is the gender breakdown of active participants (Male v. Female)?
 
-[Gender_Distribution_Riders](Resources/Gender_Distribution_Riders.JPG)
+![Gender_Distribution_Riders](Resources/Gender_Distribution_Riders.JPG)
 
 
 * What is the trip duration by Age?
 
-[Trip_Duration_By_Year_and_Age](Resources/Trip_Duration_By_Year_and_Age.JPG)
+![Trip_Duration_By_Year_and_Age](Resources/Trip_Duration_By_Year_and_Age.JPG)
 
 
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
-[Bike_Location](Resources/Bike_Location.JPG)
+![Bike_Location](Resources/Bike_Location.JPG)
 
 
 * How variable is the utilization by bike ID?
 
-[Bike_Utilization](Resources/Bike_Utilization.JPG)
+![Bike_Utilization](Resources/Bike_Utilization.JPG)
 
 Next,
 
