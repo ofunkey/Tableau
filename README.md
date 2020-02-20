@@ -4,7 +4,7 @@
 
 ## Background
 
-[Citi-Bikes](Resources/Images/citi-bike-station-bikes.jpg)
+![Citi-Bikes](Resources/Images/citi-bike-station-bikes.jpg)
 
 In this work, I generated regular [reports](https://public.tableau.com/profile/funke.olaleye#!/vizhome/citibike_tripdata/CitibikeTripdata) for city officials to publicize and improve the city program [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike).
 
