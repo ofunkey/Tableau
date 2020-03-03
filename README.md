@@ -35,9 +35,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 
-* What are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+* What are the top 10 stations in the city for starting a journey? 
 
-* What are the top 10 stations in the city for ending a journey? (Based on data, why?)
+* What are the top 10 stations in the city for ending a journey?
 
 ![Top_10_Start_and_End_Stations](Resources/Top_10_Start_and_End_Stations.JPG)
 
