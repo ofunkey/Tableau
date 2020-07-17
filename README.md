@@ -1,6 +1,7 @@
 # Tableau - Citi Bike Analytics
 
-[Citi-Bikes - Tableau site](https://public.tableau.com/profile/funke.olaleye#!/vizhome/citibike_tripdata/CitibikeTripdata)
+[Citi-Bikes - View the story on Tableau site (Online - Public Tableau)](https://public.tableau.com/profile/funke.olaleye#!/vizhome/citibike_tripdata/CitibikeTripdata)
+
 
 ## Background
 
